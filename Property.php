@@ -1,3 +1,5 @@
+<?php
+
 class Obj
 {
     public function __get($name)
