@@ -2,10 +2,8 @@
 
 ### Property
     
-    属性原理
-    demo
+    属性的实现原理属性原理，见Property文件夹下demo
     
 ### Event
 
-    事件原理
-    demo
+    事件的实现原理属性原理，见Event文件夹下demo
